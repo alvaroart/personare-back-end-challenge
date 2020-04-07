@@ -28,7 +28,7 @@ E as especificações são:
 
 ## Pré-requisitos
 
-- PHP >= 5.6
+- PHP >= 5.6 /// Change to Golang
 - Orientado a objetos
 - Test Driven Development
 - A API deve retornar em formato de `json`
