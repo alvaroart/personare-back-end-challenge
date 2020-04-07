@@ -1,6 +1,7 @@
 # back-end-challenge
 
 > Desafio para os futuros back-end's do [@Personare](https://github.com/Personare)
+##adaptado para testes com Golang
 
 ## Introdução
 
